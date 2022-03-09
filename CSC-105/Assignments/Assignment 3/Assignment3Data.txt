@@ -1,0 +1,38 @@
+Number of turtles/agents:
+1000
+Chance (%) to have cancer or diabetes but not TB, 5 from cancer, 10 from diabetes:
+15
+Chance (%) to have HIV but not TB:
+.5
+Chance (%) to have latent TB:
+5
+Chance (%) to have active TB:
+.5
+Chance (%) to become latent:
+10
+Chance (%) to become active:
+10
+Chance (%) to start treatment:
+90
+Chance (%) to die:
+10
+Added chance (%) if young:
+5
+Added chance (%) if elderly: 
+5
+Chance (%) to be young:
+28
+Chance (%) to be adult:
+55
+Chance (%) to be elderly:
+17
+Added chance (%) if HIV: 
+30
+Added chance (%) if diseased: 
+20
+Added chance (%) to contract TB again due to previous infection:
+10
+Treatment timer:
+30
+Time to notice TB:
+3

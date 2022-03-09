@@ -1,0 +1,85 @@
+9 trips
+Trip 1 has 4 cities.
+La Crosse, WI
+Effingham, IL
+St. Louis, MO
+Jackson, TN
+Trip 2 has 3 cities.
+Mountain Home, AR
+Rolla, MO
+Davenport, IA
+Trip 3 has 2 cities.
+Nauvoo, IL
+Tupelo, MS
+Trip 4 has 2 cities.
+Springfield, MO
+Springfield, IL
+Trip 5 has 20 cities.
+Duluth, MN
+Rochester, MN
+Moline, IL
+Monroe, LA
+Little Rock, AR
+East St. Louis, IL
+Cape Girardeau, MO
+Carbondale, IL
+Joplin, MO
+Superior, WI
+Bossier City, LA
+Gulfport, MS
+Jefferson City, MO
+Waukesha, WI
+St. Louis Park, MN
+Bowling Green, KY
+Nashville, TN
+Alexandria, LA
+East Grand Forks, MN
+Green Bay, WI
+Trip 6 has 10 cities.
+Ames, IA
+Lake Charles, LA
+El Dorado, AR
+Kansas City, MO
+Cedar Rapids, IA
+International Falls, MN
+Waterloo, IA
+Morgan City, LA
+Arnold, MO
+Kirksville, MO
+Trip 7 has 10 cities.
+London, KY
+Kingsport, TN
+Oxford, MS
+Chicago, IL
+Paducah, KY
+Carbondale, IL
+Charleston, IL
+Racine, WI
+Brentwood, TN
+Corinth, MS
+Trip 8 has 12 cities.
+Waterloo, IA
+Knoxville, TN
+Waterloo, IA
+Knoxville, TN
+Waterloo, IA
+Knoxville, TN
+Waterloo, IA
+Knoxville, TN
+Waterloo, IA
+Knoxville, TN
+Waterloo, IA
+Knoxville, TN
+Trip 9 has 12 cities.
+Crossville, TN
+Fort Thomas, KY
+Crossville, TN
+Fort Thomas, KY
+Crossville, TN
+Fort Thomas, KY
+Rolla, MO
+Monroe, LA
+Rolla, MO
+Monroe, LA
+Rolla, MO
+Monroe, LA

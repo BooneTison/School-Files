@@ -1,0 +1,64 @@
+PIT versus OTT
+
+PIT scored goal! (Power Play)
+On the ice for PIT:
+ Center - EVGENI MALKIN (71)
+ Center - SIDNEY CROSBY (87)
+ Right Wing - PETR SYKORA (17)
+ Left Wing - RYAN MALONE (12)
+ Defense - SERGEI GONCHAR (55)
+ Goalie - MARC-ANDRE FLEURY (29)
+On the ice for OTT:
+ Center - ANTOINE VERMETTE (20)
+ Right Wing - SHEAN DONOVAN (10)
+ Defense - CHRIS PHILLIPS (4)
+ Defense - ANTON VOLCHENKOV (24)
+ Goalie - MARTIN GERBER (29)
+
+OTT scored goal!
+On the ice for PIT:
+ Center - MAXIME TALBOT (25)
+ Right Wing - GEORGES LARAQUE (27)
+ Left Wing - RYAN MALONE (12)
+ Defense - BROOKS ORPIK (44)
+ Defense - SERGEI GONCHAR (55)
+ Goalie - MARC-ANDRE FLEURY (29)
+On the ice for OTT:
+ Center - ANTOINE VERMETTE (20)
+ Left Wing - CORY STILLMAN (61)
+ Left Wing - NICK FOLIGNO (71)
+ Defense - WADE REDDEN (6)
+ Defense - ANTON VOLCHENKOV (24)
+ Goalie - MARTIN GERBER (29)
+
+PIT scored goal!
+On the ice for PIT:
+ Center - MAXIME TALBOT (25)
+ Center - TYLER KENNEDY (48)
+ Left Wing - JARKKO RUUTU (37)
+ Defense - RYAN WHITNEY (19)
+ Defense - KRISTOPHER LETANG (58)
+ Goalie - MARC-ANDRE FLEURY (29)
+On the ice for OTT:
+ Center - JASON SPEZZA (19)
+ Right Wing - DANIEL ALFREDSSON (11)
+ Left Wing - DANY HEATLEY (15)
+ Defense - WADE REDDEN (6)
+ Defense - BRIAN LEE (55)
+ Goalie - MARTIN GERBER (29)
+
+PIT scored goal!
+On the ice for PIT:
+ Center - SIDNEY CROSBY (87)
+ Right Wing - MARIAN HOSSA (18)
+ Left Wing - PASCAL DUPUIS (9)
+ Defense - HAL GILL (2)
+ Defense - KRISTOPHER LETANG (58)
+ Goalie - MARC-ANDRE FLEURY (29)
+On the ice for OTT:
+ Center - JASON SPEZZA (19)
+ Center - ANTOINE VERMETTE (20)
+ Right Wing - DANIEL ALFREDSSON (11)
+ Left Wing - DANY HEATLEY (15)
+ Defense - WADE REDDEN (6)
+ Defense - ANDREJ O'BRIEN (14)

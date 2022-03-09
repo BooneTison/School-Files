@@ -1,0 +1,10 @@
+Initial Population is:
+1000
+Initial Proportion of Population that is healthy is:
+.82
+Initial Proportion of Population that has a weakened immune system due to HIV/Cancer:
+.13
+Initial Proportion of Population with latent TB:
+.04
+Initial Proportion of Population with active TB:
+.01
