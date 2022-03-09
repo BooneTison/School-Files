@@ -1,0 +1,26 @@
+@relation CreditCardPromotion
+
+@attribute '﻿Income Range' {'40-50,000','30-40,000','50-60,000','20-30,000'}
+@attribute 'Magazine Promo' {Yes,No}
+@attribute 'Watch Promo' {No,Yes}
+@attribute 'Credit Card Ins.' {No,Yes}
+@attribute Sex {Male,Female}
+@attribute Age numeric
+@attribute 'Life Ins Promo' {No,Yes}
+
+@data
+'40-50,000',Yes,No,No,Male,45,No
+'30-40,000',Yes,Yes,No,Female,40,Yes
+'40-50,000',No,No,No,Male,42,No
+'30-40,000',Yes,Yes,Yes,Male,43,Yes
+'50-60,000',Yes,No,No,Female,38,Yes
+'20-30,000',No,No,No,Female,55,No
+'30-40,000',Yes,No,Yes,Male,35,Yes
+'20-30,000',No,Yes,No,Male,27,No
+'30-40,000',Yes,No,No,Male,43,No
+'30-40,000',Yes,Yes,No,Female,41,Yes
+'40-50,000',No,Yes,No,Female,43,Yes
+'20-30,000',No,Yes,No,Male,29,Yes
+'50-60,000',Yes,Yes,No,Female,39,Yes
+'40-50,000',No,Yes,No,Male,55,No
+'20-30,000',No,No,Yes,Female,19,Yes

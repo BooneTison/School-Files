@@ -1,0 +1,46 @@
+@relation crime.symbolic
+
+@attribute pop {hi, med, low}
+@attribute unemploy {hi, med, low}
+@attribute ownerocc {hi, med, low}
+@attribute twoparent {hi, med, low}
+@attribute poverty {hi, med, low}
+@attribute popdens {hi, med, low}
+@attribute income {hi, med, low}
+@attribute education {hi, med, low}
+@attribute crime {bad, ok}
+
+
+@data
+low,hi,med,low,hi,low,low,med,bad
+hi,hi,low,low,hi,low,low,med,bad
+low,med,low,low,med,med,low,low,bad
+low,med,med,med,med,low,low,low,bad
+med,med,low,med,med,med,low,med,bad
+low,med,low,med,med,med,low,low,bad
+low,med,low,med,med,low,low,med,bad
+low,med,med,low,med,low,low,med,ok
+low,med,low,low,hi,low,low,med,ok
+low,low,low,med,low,low,med,low,ok
+med,med,low,med,med,low,low,low,ok
+low,low,hi,med,low,low,low,med,ok
+low,low,hi,hi,med,low,low,low,ok
+low,low,low,med,med,med,med,med,ok
+low,med,low,med,med,med,low,hi,ok
+low,low,hi,hi,low,low,med,low,ok
+low,low,med,hi,low,low,med,med,ok
+low,low,hi,hi,low,low,med,low,ok
+low,med,low,med,med,hi,low,hi,ok
+low,med,med,med,med,low,low,hi,ok
+low,low,hi,hi,low,low,hi,low,ok
+low,low,hi,hi,low,low,hi,low,ok
+low,low,hi,hi,low,low,med,low,ok
+low,med,low,med,med,hi,low,hi,ok
+low,low,hi,hi,low,low,med,low,ok
+low,low,hi,hi,low,low,hi,low,ok
+low,low,hi,hi,low,low,med,low,ok
+low,low,hi,hi,low,low,hi,low,ok
+low,low,hi,hi,low,low,hi,low,ok
+low,low,med,hi,low,low,med,low,ok
+low,low,hi,hi,low,low,hi,low,ok
+low,low,hi,hi,low,low,med,low,ok
